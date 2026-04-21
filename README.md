@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Mansoor AK</h1>
   <p align="center">
-    <strong>Full-Stack Engineer & Automation Specialist</strong>
+    <strong>Full-Stack Engineer</strong>
   </p>
   <p align="center">
     Architecting scalable backend systems, optimizing operational workflows, and building robust integrations.
@@ -71,12 +71,12 @@ I specialize in transforming complex, manual processes into streamlined, automat
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mansres&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansres&theme=transparent&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=mansres&icon=7&color=8" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=mansres&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </div>
