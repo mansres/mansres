@@ -11,9 +11,6 @@
     <a href="https://linkedin.com/in/mansr" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://buymeacoffee.com/mansres" target="_blank">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
-    </a>
   </div>
 </div>
 
@@ -79,4 +76,8 @@ I specialize in transforming complex, manual processes into streamlined, automat
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=mansres&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
-</div>
+  </div>
+    <a href="https://buymeacoffee.com/mansres" target="_blank">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
+    </a>
+
