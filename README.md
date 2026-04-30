@@ -61,6 +61,54 @@ I specialize in transforming complex, manual processes into streamlined, automat
 ---
 
 <!-- START_SECTION:badges -->
+**Google Skills:** 
+
+<div>
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" src="https://cdn.qwiklabs.com/Xqt3O07j%2B0EJYTN2%2Bp7QIv114d9RGBcSBlYl0mfyHqM%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" src="https://cdn.qwiklabs.com/wSMtWvBhImlr5fZH7LC%2BTdaVBnCMTVnlLkZVHAvzD4g%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" src="https://cdn.qwiklabs.com/%2Bub%2FxM0IG82eclzeCw2ZCQeVZIFWDrDK59Hbkr1Gk9M%3D">
+  </a>
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" src="https://cdn.qwiklabs.com/BVV%2Fj%2F0h1ZRwMel0M0Ip3uZcNXd%2FzeWEqkZLZ2umN3E%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" src="https://cdn.qwiklabs.com/yxP%2BhIbvcYcO3fdnphDvLK9DxwuephoEbI%2Bna9OHkGY%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" style=" border-radius: 20px;" src="https://cdn.qwiklabs.com/ZOb7So5SVvLtNYi62lecamlNxQN4rAZnKKM2plibgwA%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" style=" border-radius: 20px;" src="https://cdn.qwiklabs.com/nth0OPM4uuNaPbd68cLVgPLWjn3IniVHeREws5XZjko%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" style=" border-radius: 20px;" src="https://cdn.qwiklabs.com/QJp8tH1aufjpJrxzogJVNOsUrN6TMNWd3AGQdmxnh%2F0%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" style=" border-radius: 20px;" src="https://cdn.qwiklabs.com/%2BZ07rfIVjiVNpFHy%2BY55d%2Fh7DlVCLZyCE69xM14DEtA%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" style=" border-radius: 20px;" src="https://cdn.qwiklabs.com/aEtKcbo%2BCwuAME0uBnEqZ35kHWiosmU4pfld0VW93g4%3D">
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/c4b78b11-3036-4792-b2d8-b3ce0210e59a/badges/23859122">
+    <img height="200px" style=" border-radius: 20px;" src="https://cdn.qwiklabs.com/XIa%2F%2Ffn8C0onBFXCyfnjG%2BdWexEicvmuC4MLemRkg5s%3D">
+  </a>
+
+  
+</div>
 <!-- END_SECTION:badges -->
 
 ---
