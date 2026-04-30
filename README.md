@@ -60,6 +60,11 @@ I specialize in transforming complex, manual processes into streamlined, automat
 
 ---
 
+<!-- START_SECTION:badges -->
+<!-- END_SECTION:badges -->
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
