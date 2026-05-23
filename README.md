@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
-I specialize in transforming complex, manual processes into streamlined, automated ecosystems. With deep expertise in the .NET stack and modern web frameworks, I focus on delivering secure, high-performance engines that drive business efficiency. 
+I specialize in transforming complex, manual processes into streamlined, automated ecosystems. With deep expertise in the .NET stack and modern web frameworks, I focus on delivering secure, high-performance solutions.
 
 * 🚀 Currently building data-intensive background services and system integrations.
 * 💡 Strong focus on **Backend Architecture**, **Data Orchestration**, and **Automation**.
@@ -89,6 +89,16 @@ I specialize in transforming complex, manual processes into streamlined, automat
 
 ---
 
+## 🏆 Credly Credentials
+
+<div align="center">
+  <a href="https://www.credly.com/users/mansoorak" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Credentials-FF6B35?style=flat-square&logo=credly&logoColor=white" alt="Credly Profile" />
+  </a>
+</div>
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -105,8 +115,8 @@ I specialize in transforming complex, manual processes into streamlined, automat
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=mansres&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
-  </div>
-    <a href="https://buymeacoffee.com/mansres" target="_blank">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
-    </a>
-
+  <br>
+  <a href="https://buymeacoffee.com/mansres" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
+  </a>
+</div>
